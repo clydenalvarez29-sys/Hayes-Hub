@@ -5,7 +5,7 @@ local BASE = "https://raw.githubusercontent.com/clydenalvarez29-sys/Hayes-Hub/ma
 -- Not sure of an id? Run this loader in the game: it prints the id when unsupported.
 local GAMES = {
 	 [10708913337] = { name = "Anime Dice",  file = "scripts/anime-dice.lua" },
-	-- [9876543210] = { name = "Other Game",  file = "scripts/other-game.lua" },
+	 [10771053183] = { name = "Other Game",  file = "scripts/net-a-fish.lua" },
 }
 
 local function notify(title, body)
